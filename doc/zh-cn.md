@@ -101,6 +101,16 @@ touchFeedback.js是用来解决h5在触摸反馈上的不足的一个JS库，一
 
 1. 支持多点触控
 
+#### v1.1.1
+
+1.现在支持class选择了
+
+```
+<script>
+new TouchFeedBack(".abc");
+</script>
+```
+
 ## 授权协议
 
 Released under the MIT, BSD, and GPL Licenses
